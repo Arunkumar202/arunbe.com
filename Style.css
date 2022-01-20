@@ -1,0 +1,40 @@
+body{
+  font-family:Times New Roman ;
+  background-color:black;
+  color:white;
+  text-align:center ;
+}
+.navbar{
+  margin:0.1px;
+  font size:1.6rem ;
+  color:white;
+}
+.navbar however{
+  border :2Px solid red;
+  padding-block:20px ;
+  background-color:orange;
+}
+.yp{
+  border :2Px solid red;
+  padding-block:20px ;
+  background-color:orange;
+}
+.Welcome{
+  color:#56f931;
+  font-size: 27px;
+}
+  .exp{
+  border: 2Px solid red;
+  padding-bottom:20Px;
+  padding-block:20px;
+  background-color:orange;
+}
+.info{
+  border :2Px solid red;
+  padding-block:20px ;
+  background-color:orange;
+}
+b{color:green;}
+img{
+  width:100% ;
+}
